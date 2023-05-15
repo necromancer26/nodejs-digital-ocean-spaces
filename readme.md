@@ -16,7 +16,7 @@ Before using this code, make sure you have the following:
 
 1.  Clone the repository:
 
-    `git clone https://github.com/your-username/nodejs-digital-ocean-spaces.git`
+    `git clone https://github.com/necromancer26/nodejs-digital-ocean-spaces.git`
 
 2.  Install the dependencies:
 
