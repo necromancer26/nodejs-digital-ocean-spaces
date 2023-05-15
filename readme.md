@@ -22,16 +22,12 @@ Before using this code, make sure you have the following:
 
 2.  Install the dependencies:
 
-    bashCopy code
-
     `cd nodejs-digital-ocean-spaces npm install`
 
 3.  Set up your environment variables:
 
     - Create a `.env` file in the root directory of the project.
     - Add the following variables and provide the corresponding values:
-
-      makefileCopy code
 
       ```
       DO_ACCESS_KEY=your-access-key
@@ -42,8 +38,6 @@ Before using this code, make sure you have the following:
       ```
 
 4.  Start the application:
-
-    sqlCopy code
 
     `npm start`
     `yarn start`
