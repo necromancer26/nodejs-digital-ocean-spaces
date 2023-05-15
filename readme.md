@@ -33,13 +33,20 @@ Before using this code, make sure you have the following:
 
       makefileCopy code
 
-      `DO_ACCESS_KEY=your-access-key DO_SECRET_KEY=your-secret-key DO_ENDPOINT=your-endpoint DO_REGION=your-region DO_BUCKET=your-bucket-name`
+      ```
+      DO_ACCESS_KEY=your-access-key
+      DO_SECRET_KEY=your-secret-key
+      DO_ENDPOINT=your-endpoint
+      DO_REGION=your-region
+      DO_BUCKET=your-bucket-name
+      ```
 
 4.  Start the application:
 
     sqlCopy code
 
     `npm start`
+    `yarn start`
 
 ### Code Explanation
 
