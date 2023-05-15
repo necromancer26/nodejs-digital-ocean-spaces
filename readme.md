@@ -16,13 +16,9 @@ Before using this code, make sure you have the following:
 
 1.  Clone the repository:
 
-    bashCopy code
-
     `git clone https://github.com/your-username/nodejs-digital-ocean-spaces.git`
 
 2.  Install the dependencies:
-
-    bashCopy code
 
     `cd nodejs-digital-ocean-spaces npm install`
 
@@ -31,13 +27,9 @@ Before using this code, make sure you have the following:
     - Create a `.env` file in the root directory of the project.
     - Add the following variables and provide the corresponding values:
 
-      makefileCopy code
-
       `DO_ACCESS_KEY=your-access-key DO_SECRET_KEY=your-secret-key DO_ENDPOINT=your-endpoint DO_REGION=your-region DO_BUCKET=your-bucket-name`
 
 4.  Start the application:
-
-    sqlCopy code
 
     `npm start`
 
