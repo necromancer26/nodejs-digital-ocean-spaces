@@ -1,6 +1,9 @@
 ## 🚀 Node.js DigitalOcean Spaces 🦈
 
 This repository provides integration of the DigitalOcean Spaces API into a Node.js application. It allows you to upload, delete, and retrieve files from your DigitalOcean Spaces bucket. 📁💻🚀
+This repository only uses S3Client from the @aws-sdk/client-s3 dependancy without the need of multer or multers3 and following the official docs found here :
+- https://docs.digitalocean.com/reference/api/spaces-api/ 
+- https://docs.digitalocean.com/products/spaces/reference/s3-sdk-examples/
 
 ### Prerequisites 📋
 
