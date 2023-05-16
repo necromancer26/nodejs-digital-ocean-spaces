@@ -23,7 +23,7 @@ Before using this code, make sure you have the following:
 
 2.  Install the dependencies:
 
-    `cd nodejs-digital-ocean-spaces npm install`
+    `cd nodejs-digital-ocean-spaces npm install` or `cd nodejs-digital-ocean-spaces yarn`
 
 3.  Set up your environment variables:
 
@@ -39,7 +39,7 @@ Before using this code, make sure you have the following:
       
 4.  Start the application:
 
-    `npm start`
+    `npm start` or `yarn start`
 
 ### Code Explanation 💡
 
